@@ -13,7 +13,7 @@ Este repositorio contiene el material de la materia Introducción al Aprendizaje
 
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
-| . | . | . |
+| Introducción | [Regresión + Perceptrón](./clases/filminas/1.%20Introducción%20al%20aprendizaje%20automático%20-%20DiploDatos2024.pdf) | [Regresión](./clases/notebooks/01%20Regresion.ipynb) y [Perceptrón](./clases/notebooks/02%20Perceptron.ipynb) |
 
 ### Trabajos Prácticos
 
