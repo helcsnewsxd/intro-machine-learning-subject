@@ -16,6 +16,12 @@ Este repositorio contiene el material de la materia Introducción al Aprendizaje
 | Introducción | [Regresión + Perceptrón](./clases/filminas/1.%20Introducción%20al%20aprendizaje%20automático%20-%20DiploDatos2024.pdf) | [Regresión](./clases/notebooks/01%20Regresion.ipynb) y [Perceptrón](./clases/notebooks/02%20Perceptron.ipynb) |
 | Modelos probabilísticos y no paramétricos | [Regresión logística + Naïve Bayes](./clases/filminas/2.%20Modelos%20Probabilísticos%20y%20no%20paramétricos-%20DiploDatos2024.pdf) | [Regresión logística](./clases/notebooks/03%20Regresion%20Logística.ipynb) y [Naïve Bayes](./clases/notebooks/04%20Naive%20Bayes.ipynb) |
 
+### Material extra (propio)
+
+| Tema | Notebook |
+|------|----------|
+| Regresión Lineal + Polinómica | [Notebook](./clases/notebooks/propios/regresion_polinomica.ipynb) |
+
 ### Trabajos Prácticos
 
 | TP | Enunciado | Desarrollo Personal | Entrega Grupal |
