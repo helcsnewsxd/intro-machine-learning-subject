@@ -23,6 +23,7 @@ Este repositorio contiene el material de la materia Introducción al Aprendizaje
 | Regresión Lineal + Polinómica | [Notebook](./clases/notebooks/propios/regresion_polinomica.ipynb) |
 | Perceptrón | [Notebook](./clases/notebooks/propios/perceptron.ipynb) |
 | Regresión Logística | [Notebook](./clases/notebooks/propios/regresion_logistica.ipynb) |
+| Naïve Bayes | [Notebook](./clases/notebooks/propios/naive_bayes.ipynb) |
 
 ### Trabajos Prácticos
 
