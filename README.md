@@ -21,6 +21,7 @@ Este repositorio contiene el material de la materia Introducción al Aprendizaje
 | Tema | Notebook |
 |------|----------|
 | Regresión Lineal + Polinómica | [Notebook](./clases/notebooks/propios/regresion_polinomica.ipynb) |
+| Perceptrón | [Notebook](./clases/notebooks/propios/perceptron.ipynb) |
 
 ### Trabajos Prácticos
 
