@@ -29,4 +29,4 @@ Este repositorio contiene el material de la materia Introducción al Aprendizaje
 
 | TP | Enunciado | Desarrollo Personal | Entrega Grupal |
 |----|-----------|-------|---------|
-| 1 | [Regresión Lineal y Polinomial](./evaluación/entregable1/original.ipynb) | *En proceso* | *En proceso* |
+| 1 | [Regresión Lineal y Polinomial](./evaluación/entregable1/original.ipynb) | [Completo](./evaluación/entregable1/personal.ipynb) | *En proceso* |
