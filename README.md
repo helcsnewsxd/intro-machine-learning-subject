@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains theoretical materials, practical exercises, and additional resources for the Introduction to Machine Learning course of the Data Science Diploma at FAMAF – Universidad Nacional de Córdoba.
+>
+> All materials are in Spanish, as they were created for academic use and submission.
+
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2024
 
 ## Introducción al Aprendizaje Automático
